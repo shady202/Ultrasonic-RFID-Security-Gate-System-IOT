@@ -18,6 +18,7 @@
 <p>
   <a href="#-overview">Overview</a> •
   <a href="#-features">Features</a> •
+  <a href="#-prototype-screenshots">Screenshots</a> •
   <a href="#-hardware">Hardware</a> •
   <a href="#-getting-started">Get Started</a> •
   <a href="#-project-structure">Project Structure</a>
@@ -34,6 +35,25 @@ The **Ultrasonic RFID Security Gate** is a physical access-control system built 
 When someone approaches the gate, the HC-SR04 ultrasonic sensor classifies the distance into a zone. The LCD and LEDs provide immediate feedback, while the MFRC522 reader checks the presented card. Only a configured RFID UID can open the servo-controlled gate; an unauthorized person entering the danger zone triggers an audible warning.
 
 > 🎓 Developed for the *Internet of Things: Concepts and Applications* module as a practical embedded-systems and physical-security prototype.
+
+## 📸 Prototype Screenshots
+
+The working prototype combines a cardboard gate enclosure, an ultrasonic distance sensor, an RFID reader, an LCD, status LEDs, and a servo-powered barrier.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./images/prototype-overview.png" alt="Front view of the ultrasonic RFID security gate prototype" width="100%">
+      <br>
+      <em>Prototype overview with the LCD showing a safe area.</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="./images/prototype-rfid-gate.png" alt="Side view of the RFID security gate prototype" width="100%">
+      <br>
+      <em>Side view showing the scan-your-card entrance and gate mechanism.</em>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Features
 
