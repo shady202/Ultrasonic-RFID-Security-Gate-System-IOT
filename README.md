@@ -43,12 +43,12 @@ The working prototype combines a cardboard gate enclosure, an ultrasonic distanc
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./images/prototype-overview.png" alt="Front view of the ultrasonic RFID security gate prototype" width="100%">
+      <img src="prototype-overview.png" alt="Front view of the ultrasonic RFID security gate prototype" width="100%">
       <br>
       <em>Prototype overview with the LCD showing a safe area.</em>
     </td>
     <td align="center" width="50%">
-      <img src="./images/prototype-rfid-gate.png" alt="Side view of the RFID security gate prototype" width="100%">
+      <img src="prototype-rfid-gate.png" alt="Side view of the RFID security gate prototype" width="100%">
       <br>
       <em>Side view showing the scan-your-card entrance and gate mechanism.</em>
     </td>
